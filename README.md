@@ -45,7 +45,10 @@ https://github.com/user-attachments/assets/f3cb2aae-55b3-4de2-be32-d12929ee486e
 
 
 
-### 🧼 Erasing Gesture  
+### 🧼 Erasing Gesture
+![Erase](demo_gifs/erase.gif)
+https://github.com/user-attachments/assets/d7ac3bc8-f150-48fd-93ae-8d6d66e84787
+
 
 
 
