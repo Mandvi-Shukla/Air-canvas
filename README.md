@@ -40,11 +40,11 @@ pip install opencv-python mediapipe
 
 
 ### ✏️ Drawing in Air  
-![Draw](demo_gifs/draw.gif)
+
 
 
 ### 🧼 Erasing Gesture  
-![Erase](demo_gifs/erase.gif)
+
 
 
 
