@@ -41,7 +41,8 @@ pip install opencv-python mediapipe
 
 ### ✏️ Drawing in Air  
 ![Draw](demo_gifs/draw.gif)
-https://github.com/user-attachments/assets/b65267b0-4b15-420a-accf-c2a1c670d4a5
+https://github.com/user-attachments/assets/f3cb2aae-55b3-4de2-be32-d12929ee486e
+
 
 
 ### 🧼 Erasing Gesture  
